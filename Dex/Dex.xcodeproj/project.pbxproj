@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		469FE83D2E6491F4003F0CBE /* DexApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DexApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		469FE8602E64947E003F0CBE /* Dex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		469FE83F2E6491F4003F0CBE /* DexApp */ = {
+		469FE8622E64947E003F0CBE /* Dex */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = DexApp;
+			path = Dex;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		469FE83A2E6491F4003F0CBE /* Frameworks */ = {
+		469FE85D2E64947E003F0CBE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		469FE8342E6491F4003F0CBE = {
+		469FE8572E64947E003F0CBE = {
 			isa = PBXGroup;
 			children = (
-				469FE83F2E6491F4003F0CBE /* DexApp */,
-				469FE83E2E6491F4003F0CBE /* Products */,
+				469FE8622E64947E003F0CBE /* Dex */,
+				469FE8612E64947E003F0CBE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		469FE83E2E6491F4003F0CBE /* Products */ = {
+		469FE8612E64947E003F0CBE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				469FE83D2E6491F4003F0CBE /* DexApp.app */,
+				469FE8602E64947E003F0CBE /* Dex.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		469FE83C2E6491F4003F0CBE /* DexApp */ = {
+		469FE85F2E64947E003F0CBE /* Dex */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 469FE84B2E6491F6003F0CBE /* Build configuration list for PBXNativeTarget "DexApp" */;
+			buildConfigurationList = 469FE8732E64947F003F0CBE /* Build configuration list for PBXNativeTarget "Dex" */;
 			buildPhases = (
-				469FE8392E6491F4003F0CBE /* Sources */,
-				469FE83A2E6491F4003F0CBE /* Frameworks */,
-				469FE83B2E6491F4003F0CBE /* Resources */,
+				469FE85C2E64947E003F0CBE /* Sources */,
+				469FE85D2E64947E003F0CBE /* Frameworks */,
+				469FE85E2E64947E003F0CBE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				469FE83F2E6491F4003F0CBE /* DexApp */,
+				469FE8622E64947E003F0CBE /* Dex */,
 			);
-			name = DexApp;
+			name = Dex;
 			packageProductDependencies = (
 			);
-			productName = DexApp;
-			productReference = 469FE83D2E6491F4003F0CBE /* DexApp.app */;
+			productName = Dex;
+			productReference = 469FE8602E64947E003F0CBE /* Dex.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		469FE8352E6491F4003F0CBE /* Project object */ = {
+		469FE8582E64947E003F0CBE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					469FE83C2E6491F4003F0CBE = {
+					469FE85F2E64947E003F0CBE = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = 469FE8382E6491F4003F0CBE /* Build configuration list for PBXProject "DexApp" */;
+			buildConfigurationList = 469FE85B2E64947E003F0CBE /* Build configuration list for PBXProject "Dex" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 469FE8342E6491F4003F0CBE;
+			mainGroup = 469FE8572E64947E003F0CBE;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 469FE83E2E6491F4003F0CBE /* Products */;
+			productRefGroup = 469FE8612E64947E003F0CBE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				469FE83C2E6491F4003F0CBE /* DexApp */,
+				469FE85F2E64947E003F0CBE /* Dex */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		469FE83B2E6491F4003F0CBE /* Resources */ = {
+		469FE85E2E64947E003F0CBE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		469FE8392E6491F4003F0CBE /* Sources */ = {
+		469FE85C2E64947E003F0CBE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		469FE8492E6491F6003F0CBE /* Debug */ = {
+		469FE8712E64947F003F0CBE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		469FE84A2E6491F6003F0CBE /* Release */ = {
+		469FE8722E64947F003F0CBE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,14 +244,14 @@
 			};
 			name = Release;
 		};
-		469FE84C2E6491F6003F0CBE /* Debug */ = {
+		469FE8742E64947F003F0CBE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"DexApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Dex/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -264,7 +264,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iOSTutor.DexApp;
+				PRODUCT_BUNDLE_IDENTIFIER = iOSTutor.Dex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -272,14 +272,14 @@
 			};
 			name = Debug;
 		};
-		469FE84D2E6491F6003F0CBE /* Release */ = {
+		469FE8752E64947F003F0CBE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"DexApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Dex/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = iOSTutor.DexApp;
+				PRODUCT_BUNDLE_IDENTIFIER = iOSTutor.Dex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -303,25 +303,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		469FE8382E6491F4003F0CBE /* Build configuration list for PBXProject "DexApp" */ = {
+		469FE85B2E64947E003F0CBE /* Build configuration list for PBXProject "Dex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				469FE8492E6491F6003F0CBE /* Debug */,
-				469FE84A2E6491F6003F0CBE /* Release */,
+				469FE8712E64947F003F0CBE /* Debug */,
+				469FE8722E64947F003F0CBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		469FE84B2E6491F6003F0CBE /* Build configuration list for PBXNativeTarget "DexApp" */ = {
+		469FE8732E64947F003F0CBE /* Build configuration list for PBXNativeTarget "Dex" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				469FE84C2E6491F6003F0CBE /* Debug */,
-				469FE84D2E6491F6003F0CBE /* Release */,
+				469FE8742E64947F003F0CBE /* Debug */,
+				469FE8752E64947F003F0CBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 469FE8352E6491F4003F0CBE /* Project object */;
+	rootObject = 469FE8582E64947E003F0CBE /* Project object */;
 }
